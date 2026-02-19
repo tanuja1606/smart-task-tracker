@@ -22,13 +22,11 @@ A modern, responsive React app to manage your daily tasks efficiently.
 
 ## 🚀 Future Features
 
-📌 Drag & drop tasks
+• Drag & Drop Tasks  
+• Filters (All / Completed / Remaining)  
+• Notifications / Reminders  
+• Image Attachment per Task  
 
-.Filters (All / Completed / Remaining)
-
-.Notifications / Reminders
-
-.Image attachment per task
 
 ## 👩‍💻 Developed By
 **TANUJA MANDLIK**
