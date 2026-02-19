@@ -1,4 +1,4 @@
-# Smart Task Tracker
+# 📋  Smart Task Tracker
 
 A modern, responsive React app to manage your daily tasks efficiently.
 
