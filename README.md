@@ -12,14 +12,12 @@ A modern, responsive React app to manage your daily tasks efficiently.
 - React JS
 - HTML, CSS
 
-## How to Run Locally
-1. Clone the repo  
-```bash
-git clone https://github.com/tanuja1606/smart-task-tracker.git
-1.npm install
-2.npm start
-3.Open http://localhost:3000
- in browser
+## ▶️ How to Run Locally
+
+1️⃣ Clone the repository  
+2️⃣ Install dependencies using npm  
+3️⃣ Start the development server  
+4️⃣ Open in your browser (usually http://localhost:3000)
 
 ## 🚀 Future Features
 
