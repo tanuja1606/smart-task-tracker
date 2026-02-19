@@ -2,13 +2,13 @@
 
 A modern, responsive React app to manage your daily tasks efficiently.
 
-## Features
+## ✨ Features
 - Add, complete, and delete tasks
 - Dark/Light mode toggle
 - Counts total, completed, and remaining tasks
 - Clean and responsive UI
 
-## Tech Stack
+## 🛠️ Technologies Used
 - React JS
 - HTML, CSS
 
@@ -21,7 +21,7 @@ git clone https://github.com/tanuja1606/smart-task-tracker.git
 3.Open http://localhost:3000
  in browser
 
-*Future Features
+## 🚀 Future Features
 
 .Drag & drop tasks
 
@@ -30,4 +30,8 @@ git clone https://github.com/tanuja1606/smart-task-tracker.git
 .Notifications / Reminders
 
 .Image attachment per task
+
+## 👩‍💻 Developed By
+**Tanuja Mandlik**
+
 
