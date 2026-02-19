@@ -22,7 +22,7 @@ A modern, responsive React app to manage your daily tasks efficiently.
 
 ## 🚀 Future Features
 
-.Drag & drop tasks
+📌 Drag & drop tasks
 
 .Filters (All / Completed / Remaining)
 
