@@ -11,6 +11,7 @@ A modern, responsive React app to manage your daily tasks efficiently.
 ## 🛠️ Technologies Used
 - React JS
 - HTML, CSS
+- JavaScript
 
 ## ▶️ How to Run Locally
 
