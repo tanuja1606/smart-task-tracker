@@ -16,3 +16,18 @@ A modern, responsive React app to manage your daily tasks efficiently.
 1. Clone the repo  
 ```bash
 git clone https://github.com/tanuja1606/smart-task-tracker.git
+1.npm install
+2.npm start
+3.Open http://localhost:3000
+ in browser
+
+*Future Features
+
+.Drag & drop tasks
+
+.Filters (All / Completed / Remaining)
+
+.Notifications / Reminders
+
+.Image attachment per task
+
