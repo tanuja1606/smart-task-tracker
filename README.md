@@ -4,7 +4,8 @@ A modern, responsive React app to manage your daily tasks efficiently.
 
 ## 🌐 Live Demo
 
-[![Live Demo](https://img.shields.io/badge/View-Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-task-tracker.vercel.app)
+[![Live Demo](https://img.shields.io/badge/View-Live_Project-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://smart-task-tracker-iota.vercel.app)
+
 
 
 ## ✨ Features
