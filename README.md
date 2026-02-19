@@ -32,6 +32,6 @@ git clone https://github.com/tanuja1606/smart-task-tracker.git
 .Image attachment per task
 
 ## 👩‍💻 Developed By
-**Tanuja Mandlik**
+**TANUJA MANDLIK**
 
 
